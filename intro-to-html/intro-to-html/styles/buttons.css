@@ -1,0 +1,156 @@
+
+  .subscribe-button {
+      background-color: rgb(200, 0, 0);
+      color: white;
+      border: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      border-radius: 2px;
+      cursor: pointer;
+      margin-right: 8px;
+      transition: opacity 0.15s;
+      vertical-align: top;
+  }
+
+  .subscribe-button:hover {
+      opacity: 0.8;
+  }
+
+  .subscribe-button:active {
+      opacity: 0.5;
+  }
+
+  .join-button {
+      background-color: white;
+      border-color: rgb(41, 118, 211);
+      border-style: solid;
+      border-width: 1px;
+      color: rgb(41, 118, 211);
+      padding-top: 9px;
+      padding-bottom: 9px;
+      padding-left: 16px;
+      padding-right: 16px;
+      border-radius: 2px;
+      cursor: pointer;
+      transition: background-color 0.15s,
+		  color 0.15s;
+  }
+
+  .join-button:hover {
+      background-color: rgb(41, 118, 211);
+      color: white;
+  }
+
+  .join-button:active {
+      opacity: 0.7;
+  }
+
+  .tweet-button {
+      background-color: rgb(2, 158, 255);
+      color: white;
+      border: none;
+      padding-top: 9px;
+      padding-bottom: 9px;
+      padding-left: 16px;
+      padding-right: 16px;
+      border-radius: 18px;
+      font-weight: bold;
+      font-size: 15px;
+      cursor: pointer;
+      margin-left: 8px;
+      transition: box-shadow 0.15s;
+      vertical-align: top;
+  }
+
+  .tweet-button:hover {
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  .uber-button {
+      background-color: black;
+      color: white;
+      border: 1px;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      padding-left: 16px;
+      padding-right: 16px;
+      border-radius: 18px;
+      font-size: 10px;
+      margin-left: 8px;
+      cursor: pointer;
+      transition: opacity 0.15s;
+      vertical-align: top;
+  }
+
+  .uber-button:hover {
+      opacity: 0.5;
+  }
+
+  .uber-button:active {
+      opacity: 0.8;
+  }
+
+  .amazon-button {
+      background-color: rgb(255, 216, 20);
+      color: rgb(5, 5, 5);
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 23px;
+      padding-right: 23px;
+      border: none;
+      border-radius: 25px;
+      margin-left: 8px;
+      cursor: pointer;
+      transition: background-color 0.15s;
+      vertical-align: top;
+  }
+
+  .amazon-button:hover {
+      background-color: rgb(255, 210, 90);
+  }
+
+  .github-button {
+      background-color: rgb(46, 164, 79);
+      border: none;
+      color: white;
+      border-radius: 3px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      font-weight: bold;
+      margin-left: 8px;
+      cursor: pointer;
+      transition: box-shadow 0.15s;
+      vertical-align: top;
+  }
+
+  .github-button:hover {
+      box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  .bootstrap-button {
+      background-color: white;
+      border-width: 1px;
+      border-style: solid;
+      border-radius: 2px;
+      color: rgb(108, 117, 125);
+      border-color: rgb(108, 117, 125);
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      font-size: 12px;
+      margin-left: 8px;
+      cursor: pointer;
+      transition: color 0.15s,
+		  background-color 0.15s;
+      vertical-align: top;
+  }
+
+  .bootstrap-button:hover {
+      color: white;
+      background-color: rgb(108, 117, 125);
+  }
